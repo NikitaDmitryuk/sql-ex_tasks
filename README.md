@@ -1,7 +1,7 @@
 # sql-ex_tasks
 Solving tasks with [sql-ex.ru](https://sql-ex.ru)
 
-## Структура базы данных *computer_pg*
+## Структура базы данных [*computer_pg*](https://github.com/NikitaDmitryuk/sql-ex_tasks/blob/main/databases/computer_pg.sql)
 
 Product(maker, model, type)
 PC(code, model, speed, ram, hd, cd, price)
