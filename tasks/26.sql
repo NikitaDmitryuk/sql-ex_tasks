@@ -9,4 +9,4 @@ SELECT AVG(price) FROM (
     SELECT p.model, maker, price FROM Laptop l
             JOIN Product p ON l.model = p.model
         WHERE maker = 'A'
-) AS X
+) AS x
